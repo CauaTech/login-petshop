@@ -1,10 +1,10 @@
 # ![WebApp](https://i.imgur.com/TB0Z0HX.png)
-# Login Petshop
 
-<table>
-<tr>
-<td>
-  Simples tela de login para petshop de implementar e bonita e simples.
-</td>
-</tr>
-</table>
+##Tela de Login Simples para Petshop
+Este é um projeto simples e elegante de tela de login desenvolvida para um petshop. A interface foi criada com foco na facilidade de implementação e estética agradável.
+
+###Funcionalidades
+<br>
+- Login Simples: Interface intuitiva para o login de usuários.
+- Design Atraente: Estética agradável e amigável para os usuários.
+- Fácil Implementação: Código claro e organizado para facilitar a integração.
