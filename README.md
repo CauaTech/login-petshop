@@ -5,6 +5,6 @@ Este é um projeto simples e elegante de tela de login desenvolvida para um pets
 
 <h6>Funcionalidades</h6>
 <br>
-- Login Simples: Interface intuitiva para o login de usuários.
-- Design Atraente: Estética agradável e amigável para os usuários.
-- Fácil Implementação: Código claro e organizado para facilitar a integração.
+- Login Simples: Interface intuitiva para o login de usuários.<br>
+- Design Atraente: Estética agradável e amigável para os usuários.<br>
+- Fácil Implementação: Código claro e organizado para facilitar a integração.<br>
